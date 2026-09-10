@@ -1,10 +1,3 @@
-"# IT-LAB"
+## SCRUM-13
 
-
-
-\## SCRUM-12
-
-
-
-Issue SCRUM-12 was investigated and documented.
-
+DNS resolution issue on CLIENT01 was investigated.
